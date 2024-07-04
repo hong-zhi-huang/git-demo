@@ -6,8 +6,6 @@ hello git
 hello git
 hello git
 hello git
-
-
 hello git
 hello git
 hello git
@@ -18,8 +16,7 @@ hello git
 hello git
 hello git
 hello git
-<<<<<<< HEAD
 hello git master  test
 hello git hot-fix
->>>>>>> hot-fix
 hello git
+111111111111111111111111111111111111
